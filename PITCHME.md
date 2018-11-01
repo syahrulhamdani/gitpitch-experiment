@@ -1,9 +1,9 @@
 # Experimenting on GitPitch
 
 +++
-@snap[headline]
+@snap[text-blue]
 
-## Let's Do This!
+<h2>Let's Do This!</h2>
 
 @snapend
 
