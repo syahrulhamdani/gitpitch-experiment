@@ -11,18 +11,12 @@
 
 @snap[west]
 
-- This will be displayed on 
-the east side of the screen
-- I promise you
-- At least it's what the docs's said
+West
 
 @snapend
 
-@snap[east] @ul
+@snap[east]
 
-- This, on the other hand, 
-will be displayed on the west side
-- With some fragments
-- You will love it!
+East
 
-@ulend @snapend
+@snapend
