@@ -1,8 +1,11 @@
 # Experimenting on GitPitch
 
 +++
+@snap[headline]
 
 ## Let's Do This!
+
+@snapend
 
 ---
 
