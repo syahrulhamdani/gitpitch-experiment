@@ -1,3 +1,4 @@
 logo: template/image/logo-itb.png
 theme: sky
 footnote: "Master of Computational Science ITB - 20917007"
+theme-override: template/css/PITCHME.css
