@@ -9,13 +9,13 @@
 
 ---
 
-@snap[west]
+@snap[west text-blue]
 
 West
 
 @snapend
 
-@snap[east]
+@snap[east text-blue]
 
 East
 
