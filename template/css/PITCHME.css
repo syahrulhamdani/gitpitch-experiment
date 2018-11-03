@@ -7,6 +7,24 @@
 .text-black  { color: #000000 !important; }
 .text-white  { color: #FFFFFF !important; }
 
+/* Split-Screen Template Styles */
+
+.split-screen-heading {
+  font-size: 1.7em !important;
+  font-weight: bold !important;
+}
+
+.split-screen-byline {
+  width: 35%;
+  font-size: 1.1em !important;
+}
+
+.split-screen-text {
+  width: 30%;
+  text-align: center;
+  font-size: 0.8em !important;
+}
+
 .split-screen-img {
   width: 35%;
 }
@@ -14,3 +32,4 @@
 .split-screen-img img {
   border-radius: 8% !important;
 }
+
