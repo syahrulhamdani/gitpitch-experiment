@@ -3,9 +3,9 @@
     text-transform: uppercase
 }
 
-.text-blue {
-    color: #4B9DD3 !important
-}
+.text-blue {color: #4B9DD3 !important}
+.text-black  { color: #000000 !important; }
+.text-white  { color: #FFFFFF !important; }
 
 .split-screen-img {
   width: 35%;
