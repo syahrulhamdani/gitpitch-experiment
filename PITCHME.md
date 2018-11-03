@@ -39,8 +39,9 @@ Yes, That would be awesome!
 @snapend
 
 +++
-
-### Image Fragment
+@snap[west split-screen-byline]
+<h3>Image Fragment</h3>
+@snapend
 
 @snap[east split-screen-img]
 ![](template/image/developer.jpg)
