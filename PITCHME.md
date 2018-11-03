@@ -38,6 +38,6 @@ I think, I would use GitPitch as my main slides
 Yes, That would be awesome!
 @snapend
 
-+++?image=template/image/developer.jpg&position=center&size= 50% 50%
++++?image=template/image/developer.jpg&position=center&size= 35%
 
 ### Image Fragment
