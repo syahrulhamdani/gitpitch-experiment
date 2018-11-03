@@ -6,3 +6,11 @@
 .text-blue {
     color: #4B9DD3 !important
 }
+
+.split-screen-img {
+  width: 35%;
+}
+
+.split-screen-img img {
+  border-radius: 8% !important;
+}
