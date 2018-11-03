@@ -8,6 +8,11 @@
 @snapend
 
 ---
+@snap[north]
+
+<h2>West and East</h2>
+
+@snapend
 
 @snap[west text-blue]
 
@@ -18,5 +23,27 @@ West
 @snap[east text-blue]
 
 East
+
+@snapend
+
+---
+
+## Trying Out Fragment
+
+@snap[fragment]
+I think, I would use GitPitch as my main slides
+@snapend
+
+@snap[fragment]
+Yes, That would be awesome!
+@snapend
+
++++
+
+### Image Fragment
+
+@snap[fragment]
+
+![Developer](template/image/developer.jpg)
 
 @snapend
