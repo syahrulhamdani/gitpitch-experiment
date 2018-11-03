@@ -39,7 +39,7 @@ Yes, That would be awesome!
 @snapend
 
 +++
-@snap[west split-screen-byline]
+@snap[fragment west split-screen-byline]
 <h3>Image Fragment</h3>
 @snapend
 
